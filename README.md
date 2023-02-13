@@ -29,7 +29,7 @@ google-chrome index.html
 
 ## Author
 
-👤 **Aras Güngöre**
+👤 **Abhishek-pillai-123**
 
-* LinkedIn: [@arasgungore](https://www.linkedin.com/in/arasgungore)
-* GitHub: [@arasgungore](https://github.com/arasgungore)
+* LinkedIn: [@Abhishek-pillai-123](https://www.linkedin.com/in/abhishek-pillai-745b251b3/)
+* GitHub: [@Abhishek-pillai-123](https://github.com/Abhishek-pillai-123)
